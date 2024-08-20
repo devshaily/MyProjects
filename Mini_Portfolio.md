@@ -1,53 +1,83 @@
-# Robotics Research Engineer & Ph.D. Candidate
+# Shaily Bajpai - Deep Learning Research Scholar
 
-- **Languages**: Python, C/C++, HTML, MATLAB
-- **Software**: ROS, Gazebo, Fusion 360
-- **Hardware**: Raspberry Pi, Arduino, Pixhawk, RPLidar
-- **AI & ML**: YOLOv5, OpenCV
-- **Tools**: Latex, VS Code, GitHub
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/shaily-bajpai-681157b6/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/devshaily)
 
-## 🎓 Education
+Dynamic and innovative professional with a Bachelors in Computer Science & Engineering and a Masters in Information & Communication Engineering, currently focusing on Deep Learning. Proficient in Python and PyTorch, with hands-on experience in medical image processing and computer vision. I'm passionate about contributing to impactful projects and driving technological advancements in the fields of Deep Learning, Artificial Intelligence, and Robotics.
 
-### Macquarie University, Sydney
-- **Ph.D. in Robotics**: Feb 2022 - Present
-- **M.Res**: Feb 2021 - Dec 2021
-- **M.Engg**: Feb 2019 - Dec 2020
+## 📚 Projects
 
-### Mumbai University
-- **B.Engg**: July 2013 - July 2017
+### Research Based- AI/Deep Learning/Medical Image Analysis/EIP Module 
 
-## 🛠 Work Experience
+1. [Teeth Instance Segmentation & Missing Teeth Detection](https://github.com/devshaily/TeethInstanceSegmentation-MissingTeethDetection)
+2. [UNET Based Multiclass Segmentation](https://github.com/devshaily/UNET_Multiclass_Segmentation)
+3. [EIP module for Cooperative Mobile Communication](https://github.com/devshaily/EIP_Module_Development)
 
-### Research @ Macquarie
-- 🚁 [Drone Landing](https://skyy.network/partners/): ARC-funded, real-world ML testing.
-- 🏙 [Smart City](https://www.youtube.com/watch?v=0uyoMNQnnaY): Sensor network, real-time data.
+### Web Apps
+1. **Onclick Object Identification**  
+   - [Live Demo](https://devshaily.github.io/ImageIdentificationUsingTeachableMachine/)  
+   - [GitHub Repository](https://github.com/devshaily/ImageIdentificationUsingTeachableMachine)
 
-### Teaching @ Macquarie
-- 🤖 [Wireless Mechatronics](https://unitguides.mq.edu.au/unit_offerings/149936/unit_guide): ROS, CV.
-- 🌐 [IoT Design](https://unitguides.mq.edu.au/unit_offerings/149908/unit_guide): Sensor networks, ML.
+2. **Canvas**  
+   - [Live Demo](https://devshaily.github.io/canvas/)  
+   - [GitHub Repository](https://github.com/devshaily/canvas)
 
-### Web Developer @ [Quality Solar Sydney](https://www.qualitysolarsydney.com.au/)
-- WordPress, SEO, analytics, ads.
+3. **Blog**  
+   - [Live Demo](https://devshaily.github.io/blogexmpl/)  
+   - [GitHub Repository](https://github.com/devshaily/blogexmpl)
 
-## 📚 Major Research Projects
+4. **Portfolio**  
+   - [Live Demo](https://devshaily.github.io/stbl/)  
+   - [GitHub Repository](https://github.com/devshaily/stbl)
 
-- 📦 [Drone High-Rise Delivery](https://www.mdpi.com/2504-446X/7/5/300): Vertical Grid Screening, YOLOv5.
-- 🚗 [1/10th Scale Autonomous Vehicle](https://sciendo.com/article/10.21307/ijssis-2020-021): CNN, path recognition.
-- 🛰 [TrackInk](https://www.mdpi.com/1424-8220/22/2/608): IoT tracking, ThingSpeak.
+5. **Embedding External App**  
+   - [Live Demo](https://devshaily.github.io/c60/)  
+   - [GitHub Repository](https://github.com/devshaily/c60)
 
-## 🏆 Achievements
+6. **Voice Selfie Web App**  
+   - [Live Demo](https://devshaily.github.io/selfieapp/)  
+   - [GitHub Repository](https://github.com/devshaily/selfieapp)
 
-### Patents
-- 🥇 [Mid-air Drone Handoff](#): MQC Ref: 2023005
+7. **Realtime Object Identification**  
+   - [Live Demo](https://devshaily.github.io/ImageIdentificationUsingMobileNet/)  
+   - [GitHub Repository](https://github.com/devshaily/ImageIdentificationUsingMobileNet)
 
-### Awards
-- 🥇 [Hackathon 2020](#): 2nd Place, $1,700
+### Undergraduate Projects
 
-### Certificates
-- 🛩️ [Quadrotor Training](https://www.skyfilabs.com/verify-certificate/44390012): No. 44390012
+1. [e-commerce app using Android Studio](https://github.com/devshaily/AndroidStudio_ecommerce)
+2. [Data Analysis on Human Trafficking in India using RStudio](https://github.com/devshaily/RstudioDataAnalysis)
 
-## 🤝 Volunteering
+## 📜 Publications
 
-- **IEEE- Macquarie**: Vice-Chair, seminars, student engagement.
-- **IEEE Women**: Secretary, social media, events.
-- **Venture Cafe**: Ambassador, innovation boost.
+1. **UNET-based Multiclass Teeth Segmentation in Panoramic Dental Radiographs**
+   - Published in: **2024 Korea Communications Society Summer Conference (KICS)**
+   - [View Paper](https://conf.kics.or.kr/media?key=site/2024s/abs/0383-JGTRG.pdf)
+   - [Conference Website](https://conf.kics.or.kr/program)
+
+2. **Advances in Tooth Detection and Segmentation in Dental Panoramic X-ray Images: A Review**
+   - Published in: **2023 Korea Communications Society Summer Conference (KICS)**
+   - [View Paper](https://shorturl.at/lnaS5)
+   - [Conference Website](https://public.thinkonweb.com/sites/e2023s/program)
+
+3. **Development of Ethernet/IP Adapter for Explicit Messaging in Cooperative Robot Communication**
+   - Published in: **2022 22nd International Conference on Control, Automation and Systems (ICCAS)/ IEEE**
+   - [View Paper](https://ieeexplore.ieee.org/document/10003850)
+   - [Conference Website](https://public.thinkonweb.com/sites/e2023s/program)
+  
+4. **Missing Teeth Count and Localization Methods in Dental Radiographs : A Review**
+   - Published in: **36th Workshop on Image Processing and Understanding (IPIU 2024)**
+   - [View Paper](https://github.com/devshaily/Publications)
+   - [Conference Website](http://www.ipiu.or.kr/?act=info.page&pcode=sub04)
+
+## 🔧 Skills
+
+- **Programming Languages**: Python, HTML, CSS, JavaScript, C++
+- **Frameworks**: PyTorch, TensorFlow, OpenCV, Bootstrap
+- **Platforms & Databases**: Thunkable, Firebase, Dialogflow
+- **Software/Editors**: Codepen, Colab, Brackets, Android Studio
+- **AI & ML**: Computer Vision, Medical Image Analysis
+- **Tools & Version Control**: GitHub, Jupyter Lab, Anaconda
+- **Others**: MS Office, R Studio
+
+
+
