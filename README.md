@@ -42,7 +42,7 @@
 1. [e-commerce app using Android Studio](https://github.com/devshaily/AndroidStudio_ecommerce)
 2. [Data Analysis on Human Trafficking in India using RStudio](https://github.com/devshaily/RstudioDataAnalysis)
 
-## Conference Publications (Papers & Poster
+## Conference Publications (Papers & Poster)
 
 1. **UNET-based Multiclass Teeth Segmentation in Panoramic Dental Radiographs**
    - Published in: **2024 Korea Communications Society Summer Conference (KICS)**
