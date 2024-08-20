@@ -4,7 +4,7 @@
 
 1. **Onclick Object Identification**  
    - [Live Demo](https://devshaily.github.io/ImageIdentificationUsingTeachableMachine/)  
-   - [GitHub Repository](https://github.com/devshaily/ImageIdentificationUsingTeachableMachine)
+   - [GitHub Repository](https://github.com/devshaily/Onclick_Object_Identification)
 
 2. **Canvas**  
    - [Live Demo](https://devshaily.github.io/canvas/)  
@@ -35,7 +35,7 @@
 
 1. [Teeth Instance Segmentation & Missing Teeth Detection](https://github.com/devshaily/TeethInstanceSegmentation-MissingTeethDetection)
 2. [UNET Multiclass Segmentation](https://github.com/devshaily/UNET_Multiclass_Segmentation)
-3. [EIP module for Cooperative Mobile Communication]()
+3. [EIP module for Cooperative Mobile Communication](https://github.com/devshaily/EIP_Module_Development)
 
 ## Undergraduate Projects
 
