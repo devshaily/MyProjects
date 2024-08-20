@@ -1,7 +1,7 @@
 # Shaily Bajpai - Deep Learning Research Scholar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/shaily-bajpai-681157b6/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/devshaily)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black)](https://shaily.my.canva.site/)
 
 Dynamic and innovative professional with a Bachelors in Computer Science & Engineering and a Masters in Information & Communication Engineering, currently focusing on Deep Learning. Proficient in Python and PyTorch, with hands-on experience in medical image processing and computer vision. I'm passionate about contributing to impactful projects and driving technological advancements in the fields of Deep Learning, Artificial Intelligence, and Robotics.
 
