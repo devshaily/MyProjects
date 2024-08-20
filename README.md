@@ -31,8 +31,20 @@
    - [GitHub Repository](https://github.com/devshaily/ImageIdentificationUsingMobileNet)
 
 
-## AI Projects
-1. [AI Project 1](https://github.com/yourusername/AI-project1)
-2. [AI Project 2](https://github.com/yourusername/AI-project2)
+## Research Based- AI/Deep Learning/Medical Image Analysis/EIP Module 
+
+1. [Teeth Instance Segmentation & Missing Teeth Detection](https://github.com/devshaily/TeethInstanceSegmentation-MissingTeethDetection)
+2. [UNET Multiclass Segmentation](https://github.com/devshaily/UNET_Multiclass_Segmentation)
+3. [EIP module for Cooperative Mobile Communication]()
+
+## Undergraduate Projects
+
+1. [e-commerce app using Android Studio](https://github.com/devshaily/AndroidStudio_ecommerce)
+2. [Data Analysis on Human Trafficking in India using RStudio](https://github.com/devshaily/RstudioDataAnalysis)
+
+
+
+
+
 
 
