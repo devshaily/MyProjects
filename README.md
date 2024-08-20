@@ -34,7 +34,7 @@
 ## Research Based- AI/Deep Learning/Medical Image Analysis/EIP Module 
 
 1. [Teeth Instance Segmentation & Missing Teeth Detection](https://github.com/devshaily/TeethInstanceSegmentation-MissingTeethDetection)
-2. [UNET Multiclass Segmentation](https://github.com/devshaily/UNET_Multiclass_Segmentation)
+2. [UNET Based Multiclass Segmentation](https://github.com/devshaily/UNET_Multiclass_Segmentation)
 3. [EIP module for Cooperative Mobile Communication](https://github.com/devshaily/EIP_Module_Development)
 
 ## Undergraduate Projects
