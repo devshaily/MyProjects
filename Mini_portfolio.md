@@ -28,7 +28,7 @@
    - [View Paper](https://github.com/devshaily/Publications)
    - [Conference Website](http://www.ipiu.or.kr/?act=info.page&pcode=sub04)
 
-## Web App Pages
+## Web Apps
 1. **Onclick Object Identification**  
    - [Live Demo](https://devshaily.github.io/ImageIdentificationUsingTeachableMachine/)  
    - [GitHub Repository](https://github.com/devshaily/Onclick_Object_Identification)
