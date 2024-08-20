@@ -94,19 +94,6 @@ Dynamic and innovative professional with a Bachelors in Computer Science & Engin
 1. [e-commerce app using Android Studio](https://github.com/devshaily/AndroidStudio_ecommerce)
 2. [Data Analysis on Human Trafficking in India using RStudio](https://github.com/devshaily/RstudioDataAnalysis)
 
-## 🏆 Awards
-
-- Consecutive Research Scholarship for 4 semesters at Chosun University
-- Hackathon Participation, Coding Skills Recognition, and Kids' Hackathon Jury Certificate by WhiteHat Jr
-- Data Science Classroom Scholarship by Springboard
-- Google India Challenge Scholarship (Android Development) by Udacity
-- AMCAT Certified Data Processing Specialist
-
-## 🌐 Languages
-
-- **English**: IELTS - 7 bands overall (7.5 in speaking)
-- **Hindi**: Fluent (Native/Bilingual)
-
 ## 📜 Publications
 
 1. **UNET-based Multiclass Teeth Segmentation in Panoramic Dental Radiographs**
@@ -128,6 +115,21 @@ Dynamic and innovative professional with a Bachelors in Computer Science & Engin
    - Published in: **36th Workshop on Image Processing and Understanding (IPIU 2024)**
    - [View Paper](https://github.com/devshaily/Publications)
    - [Conference Website](http://www.ipiu.or.kr/?act=info.page&pcode=sub04)
+
+## 🏆 Awards
+
+- Consecutive Research Scholarship for 4 semesters at Chosun University
+- Hackathon Participation, Coding Skills Recognition, and Kids' Hackathon Jury Certificate by WhiteHat Jr
+- Data Science Classroom Scholarship by Springboard
+- Google India Challenge Scholarship (Android Development) by Udacity
+- AMCAT Certified Data Processing Specialist
+
+## 🌐 Languages
+
+- **English**: IELTS - 7 bands overall (7.5 in speaking)
+- **Hindi**: Fluent (Native/Bilingual)
+
+
 
 
 
